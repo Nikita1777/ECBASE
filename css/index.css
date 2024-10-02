@@ -23,7 +23,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 .header {
-  background: url(/imgs/IMAGEFONN.jpg);
+  background: url(./imgs/IMAGEFONN.jpg);
   height: 140vh;
   background-repeat: no-repeat;
   background-size: cover;
@@ -300,7 +300,7 @@ h1, h2, h3, h4, h5, h6, p {
   margin-top: 300px;
 }
 .quote__pxoto {
-  background: url(/imgs/IMAGEFON.png);
+  background: url(./imgs/IMAGEFON.png);
   height: 100vh;
   background-repeat: no-repeat;
 }
